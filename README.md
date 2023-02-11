@@ -30,6 +30,11 @@ Here are some ideas to get you started:
 
 <br/>  
 
+- [Celery](https://pypi.org/project/celery/)
+
+[![Celery](https://warehouse-camo.ingress.cmh1.psfhosted.org/b1336bf90c555ca9b45aca49e9d2b51a00783c1c/687474703a2f2f646f63732e63656c65727970726f6a6563742e6f72672f656e2f6c61746573742f5f696d616765732f63656c6572792d62616e6e65722d736d616c6c2e706e67)](https://docs.celeryq.dev/en/stable/index.html)
+
+
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=md-abdul-alim&&style=flat-square" align="center" />
 </div>  
