@@ -32,11 +32,16 @@ Here are some ideas to get you started:
 <h1>দক্ষতা বৃদ্ধির জন্য সেরা কিছু প্রোগ্রামিং ভাষা শেখার ব্লগ</h1> 
 
 - [The Crazy Programmer](http://www.thecrazyprogrammer.com/)
-
-[![The Crazy Programmer](https://www.thecrazyprogrammer.com/wp-content/uploads/2017/09/logo-2.png?ezimgfmt=rs:143x90/rscb1/ngcb1/notWebP)]([https://docs.celeryq.dev/en/stable/index.html](http://www.thecrazyprogrammer.com/))
-
-
 - [Jooq](https://blog.jooq.org/)
+- [CodingAlpha](https://www.codingalpha.com/)
+- [AlistApart](https://alistapart.com/)
+- [Catonmat](https://catonmat.net/)
+- [CodePen Blog](https://blog.codepen.io/)
+- [DWB](https://davidwalsh.name/)
+- [CodingDojo](https://www.codingdojo.com/blog/)
+- [TechieDelight](https://www.techiedelight.com/)
+- [TechBeamers](https://techbeamers.com/)
+- [EncodeDNA](https://www.encodedna.com/)
 
 
 <div align="center">
