@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 
 - [Jooq](https://blog.jooq.org/)
-[![Jooq]([https://www.thecrazyprogrammer.com/wp-content/uploads/2017/09/logo-2.png?ezimgfmt=rs:143x90/rscb1/ngcb1/notWebP](https://i0.wp.com/blog.jooq.org/wp-content/uploads/2019/05/cropped-jooq-logo-white-transparent-750x750-padded-2.png?fit=400%2C400&ssl=1))]
+[![Jooq]([https://www.thecrazyprogrammer.com/wp-content/uploads/2017/09/logo-2.png?ezimgfmt=rs:143x90/rscb1/ngcb1/notWebP](https://i0.wp.com/blog.jooq.org/wp-content/uploads/2019/05/cropped-jooq-logo-white-transparent-750x750-padded-2.png?fit=400%2C400&ssl=1))]([https://blog.jooq.org/](https://blog.jooq.org/))
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=md-abdul-alim&&style=flat-square" align="center" />
