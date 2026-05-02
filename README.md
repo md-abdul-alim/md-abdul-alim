@@ -31,7 +31,7 @@
 - 🌱  : I’m currently learning **[Machine Learning](https://www.datacamp.com/category/machine-learning)**, **[Data Engineering](https://www.datacamp.com/category/data-engineering)**
 - 👯  : I want to contribute as **[Python Developer]()**
 - 👨‍💻  : Few of my projects are available at **[My GitHub](https://github.com/alim05?tab=repositories)**
-- 📫  : How to reach me **📧 <a href = "mailto: alim.abdul.5915@gmail.com">Email</a>** --- **💼 <a href = "https://www.linkedin.com/in/alim05/">LinkedIn</a>** --- **💬 <a href = "https://wa.me/8801787829893" target="_blank">WhatsApp</a>**
+- 📫  : How to reach me **📧 <a href = "mailto: alim.abdul.5915@gmail.com">Email</a>** --- **💼 <a href = "https://www.linkedin.com/in/alim05/" target="_blank">LinkedIn</a>** --- **💬 <a href = "https://wa.me/8801787829893" target="_blank">WhatsApp</a>**
 
 - ⚡ : Fun fact **[I love playing Football]()**
 
