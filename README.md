@@ -46,81 +46,11 @@
 
 ## 📌 Pinned Repositories
 
-<div style="display: flex; flex-wrap: wrap; gap: 1rem; justify-content: space-between;">
-
-<div style="flex: 1; min-width: 300px; border: 1px solid #30363d; border-radius: 6px; padding: 1.5rem; background: #0d1117;">
-  <div style="margin-bottom: 0.75rem;">
-    <a href="https://github.com/md-abdul-alim/elastic-search-in-django" style="text-decoration: none; color: #58a6ff; font-weight: 600; font-size: 1.1rem;">Elastic Search in Django</a>
-  </div>
-  <p style="color: #8b949e; font-size: 0.9rem; margin-bottom: 1rem; line-height: 1.5;">Integration of Elasticsearch for advanced full-text search capabilities in Django applications with high performance.</p>
-  <div style="display: flex; gap: 1rem; align-items: center; flex-wrap: wrap;">
-    <span style="background: #161b22; padding: 0.25rem 0.75rem; border-radius: 24px; font-size: 0.85rem; color: #79c0ff;">🐍 Python</span>
-    <span style="color: #8b949e; font-size: 0.9rem;">⭐ 24</span>
-    <span style="color: #8b949e; font-size: 0.9rem;">🔀 5</span>
-  </div>
-</div>
-
-<div style="flex: 1; min-width: 300px; border: 1px solid #30363d; border-radius: 6px; padding: 1.5rem; background: #0d1117;">
-  <div style="margin-bottom: 0.75rem;">
-    <a href="https://github.com/md-abdul-alim/fulltext-search-in-Django" style="text-decoration: none; color: #58a6ff; font-weight: 600; font-size: 1.1rem;">Full-Text Search in Django</a>
-  </div>
-  <p style="color: #8b949e; font-size: 0.9rem; margin-bottom: 1rem; line-height: 1.5;">Complete implementation of full-text search using Django ORM and database-specific features for optimal performance.</p>
-  <div style="display: flex; gap: 1rem; align-items: center; flex-wrap: wrap;">
-    <span style="background: #161b22; padding: 0.25rem 0.75rem; border-radius: 24px; font-size: 0.85rem; color: #79c0ff;">🐍 Python</span>
-    <span style="color: #8b949e; font-size: 0.9rem;">⭐ 18</span>
-    <span style="color: #8b949e; font-size: 0.9rem;">🔀 3</span>
-  </div>
-</div>
-
-<div style="flex: 1; min-width: 300px; border: 1px solid #30363d; border-radius: 6px; padding: 1.5rem; background: #0d1117;">
-  <div style="margin-bottom: 0.75rem;">
-    <a href="https://github.com/md-abdul-alim/capcut-automation" style="text-decoration: none; color: #58a6ff; font-weight: 600; font-size: 1.1rem;">CapCut Automation</a>
-  </div>
-  <p style="color: #8b949e; font-size: 0.9rem; margin-bottom: 1rem; line-height: 1.5;">Automated video editing and generation tool using CapCut API for creating professional content at scale.</p>
-  <div style="display: flex; gap: 1rem; align-items: center; flex-wrap: wrap;">
-    <span style="background: #161b22; padding: 0.25rem 0.75rem; border-radius: 24px; font-size: 0.85rem; color: #79c0ff;">🐍 Python</span>
-    <span style="color: #8b949e; font-size: 0.9rem;">⭐ 12</span>
-    <span style="color: #8b949e; font-size: 0.9rem;">🔀 2</span>
-  </div>
-</div>
-
-<div style="flex: 1; min-width: 300px; border: 1px solid #30363d; border-radius: 6px; padding: 1.5rem; background: #0d1117;">
-  <div style="margin-bottom: 0.75rem;">
-    <a href="https://github.com/md-abdul-alim/turfbooking" style="text-decoration: none; color: #58a6ff; font-weight: 600; font-size: 1.1rem;">Turf Booking Platform</a>
-  </div>
-  <p style="color: #8b949e; font-size: 0.9rem; margin-bottom: 1rem; line-height: 1.5;">End-to-end sports turf booking application with real-time availability, payment processing, and user management.</p>
-  <div style="display: flex; gap: 1rem; align-items: center; flex-wrap: wrap;">
-    <span style="background: #161b22; padding: 0.25rem 0.75rem; border-radius: 24px; font-size: 0.85rem; color: #79c0ff;">🐍 Python</span>
-    <span style="color: #8b949e; font-size: 0.9rem;">⭐ 28</span>
-    <span style="color: #8b949e; font-size: 0.9rem;">🔀 6</span>
-  </div>
-</div>
-
-<div style="flex: 1; min-width: 300px; border: 1px solid #30363d; border-radius: 6px; padding: 1.5rem; background: #0d1117;">
-  <div style="margin-bottom: 0.75rem;">
-    <a href="https://github.com/md-abdul-alim/django-scrapy-integration" style="text-decoration: none; color: #58a6ff; font-weight: 600; font-size: 1.1rem;">Django Scrapy Integration</a>
-  </div>
-  <p style="color: #8b949e; font-size: 0.9rem; margin-bottom: 1rem; line-height: 1.5;">Seamless integration of Scrapy web scraping framework with Django for data collection and management pipelines.</p>
-  <div style="display: flex; gap: 1rem; align-items: center; flex-wrap: wrap;">
-    <span style="background: #161b22; padding: 0.25rem 0.75rem; border-radius: 24px; font-size: 0.85rem; color: #79c0ff;">🐍 Python</span>
-    <span style="color: #8b949e; font-size: 0.9rem;">⭐ 31</span>
-    <span style="color: #8b949e; font-size: 0.9rem;">🔀 8</span>
-  </div>
-</div>
-
-<div style="flex: 1; min-width: 300px; border: 1px solid #30363d; border-radius: 6px; padding: 1.5rem; background: #0d1117;">
-  <div style="margin-bottom: 0.75rem;">
-    <a href="https://github.com/md-abdul-alim/celery-in-django" style="text-decoration: none; color: #58a6ff; font-weight: 600; font-size: 1.1rem;">Celery in Django</a>
-  </div>
-  <p style="color: #8b949e; font-size: 0.9rem; margin-bottom: 1rem; line-height: 1.5;">Production-ready Celery task queue setup with Django for async processing, scheduled tasks, and background jobs.</p>
-  <div style="display: flex; gap: 1rem; align-items: center; flex-wrap: wrap;">
-    <span style="background: #161b22; padding: 0.25rem 0.75rem; border-radius: 24px; font-size: 0.85rem; color: #79c0ff;">🐍 Python</span>
-    <span style="color: #8b949e; font-size: 0.9rem;">⭐ 42</span>
-    <span style="color: #8b949e; font-size: 0.9rem;">🔀 11</span>
-  </div>
-</div>
-
-</div>
+| | |
+|---|---|
+| **[Elastic Search in Django](https://github.com/md-abdul-alim/elastic-search-in-django)**<br/>Integration of Elasticsearch for advanced full-text search capabilities in Django applications with high performance.<br/>🐍 Python • ⭐ 24 • 🔀 5 | **[Full-Text Search in Django](https://github.com/md-abdul-alim/fulltext-search-in-Django)**<br/>Complete implementation of full-text search using Django ORM and database-specific features for optimal performance.<br/>🐍 Python • ⭐ 18 • 🔀 3 |
+| **[CapCut Automation](https://github.com/md-abdul-alim/capcut-automation)**<br/>Automated video editing and generation tool using CapCut API for creating professional content at scale.<br/>🐍 Python • ⭐ 12 • 🔀 2 | **[Turf Booking Platform](https://github.com/md-abdul-alim/turfbooking)**<br/>End-to-end sports turf booking application with real-time availability, payment processing, and user management.<br/>🐍 Python • ⭐ 28 • 🔀 6 |
+| **[Django Scrapy Integration](https://github.com/md-abdul-alim/django-scrapy-integration)**<br/>Seamless integration of Scrapy web scraping framework with Django for data collection and management pipelines.<br/>🐍 Python • ⭐ 31 • 🔀 8 | **[Celery in Django](https://github.com/md-abdul-alim/celery-in-django)**<br/>Production-ready Celery task queue setup with Django for async processing, scheduled tasks, and background jobs.<br/>🐍 Python • ⭐ 42 • 🔀 11 |
 
 
 ## ❤️ Ranking, Views & Followers
