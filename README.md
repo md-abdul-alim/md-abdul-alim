@@ -1,7 +1,5 @@
 <a href="#"><img style="align:center;" width="100%" height="auto" src="https://i.imgur.com/8RiiR4n.png" /></a>
 
-
-
 <!-- ## Hi 👋,  I'm Alim -->
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+I+am+Abdul+Alim)](https://git.io/typing-svg)
 
@@ -19,9 +17,9 @@
     ➮ Version control: Git, & GitHub <br>
     ➮ DevOps & Cloud: AWS, Digital Ocean, Hostinger, CI/CD (Github Action), Docker, Kubernetes <br>
     ➮ Agile software development <br><br>
-    ☞ Connect with me: <a href = "https://www.linkedin.com/in/alim05/">LinkedIn</a> ☜ <br>
-    ☞ contact me using: <a href = "mailto: alim.abdul.5915@gmail.com">alim.abdul.5915@gmail.com</a> ☜ <br>
-    ☞ contact me using (WhatsApp): <a href = "phone: +8801787829893">+8801787829893</a> ☜ <br>
+    💼 Connect with me: <a href="https://www.linkedin.com/in/alim05/" target="_blank">LinkedIn</a><br>
+    📧 Contact me using: <a href = "mailto: alim.abdul.5915@gmail.com">alim.abdul.5915@gmail.com</a><br>
+    💬 Contact me using (WhatsApp): <a href = "phone: +8801787829893">+8801787829893</a><br>
 </h4>
     
 ## 🙋‍♂️ About Me
@@ -30,19 +28,13 @@
 
 
 - 🔭  : I’m currently searching for new **Projects**
-
 - 🌱  : I’m currently learning **[Machine Learning](https://www.datacamp.com/category/machine-learning)**, **[Data Engineering](https://www.datacamp.com/category/data-engineering)**
-
 - 👯  : I want to contribute as **[Python Developer]()**
-
 - 👨‍💻  : Few of my projects are available at **[My GitHub](https://github.com/alim05?tab=repositories)**
-
-- 📫  : How to reach me **<a href = "mailto: alim.abdul.5915@gmail.com">Email</a>** --- **<a href = "https://www.linkedin.com/in/alim05/">LinkedIn</a>** --- **<a href = "phone: +8801787829893">WhatsApp</a>**
-
+- 📫  : How to reach me **📧 <a href = "mailto: alim.abdul.5915@gmail.com">Email</a>** --- **💼 <a href = "https://www.linkedin.com/in/alim05/">LinkedIn</a>** --- **💬 <a href = "phone: +8801787829893">WhatsApp</a>**
 - ⚡ : Fun fact **[I love playing Football]()**
 
 <br/>
-
 
 ## 📌 Pinned Repositories
 
