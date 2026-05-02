@@ -46,9 +46,9 @@
 
 ## 📌 Pinned Repositories
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1rem; margin: 1rem 0;">
+<div style="display: flex; flex-wrap: wrap; gap: 1rem; justify-content: space-between;">
 
-<div style="border: 1px solid #30363d; border-radius: 6px; padding: 1.5rem; background: #0d1117; transition: transform 0.3s ease;">
+<div style="flex: 1; min-width: 300px; border: 1px solid #30363d; border-radius: 6px; padding: 1.5rem; background: #0d1117;">
   <div style="margin-bottom: 0.75rem;">
     <a href="https://github.com/md-abdul-alim/elastic-search-in-django" style="text-decoration: none; color: #58a6ff; font-weight: 600; font-size: 1.1rem;">Elastic Search in Django</a>
   </div>
@@ -60,7 +60,7 @@
   </div>
 </div>
 
-<div style="border: 1px solid #30363d; border-radius: 6px; padding: 1.5rem; background: #0d1117; transition: transform 0.3s ease;">
+<div style="flex: 1; min-width: 300px; border: 1px solid #30363d; border-radius: 6px; padding: 1.5rem; background: #0d1117;">
   <div style="margin-bottom: 0.75rem;">
     <a href="https://github.com/md-abdul-alim/fulltext-search-in-Django" style="text-decoration: none; color: #58a6ff; font-weight: 600; font-size: 1.1rem;">Full-Text Search in Django</a>
   </div>
@@ -72,7 +72,7 @@
   </div>
 </div>
 
-<div style="border: 1px solid #30363d; border-radius: 6px; padding: 1.5rem; background: #0d1117; transition: transform 0.3s ease;">
+<div style="flex: 1; min-width: 300px; border: 1px solid #30363d; border-radius: 6px; padding: 1.5rem; background: #0d1117;">
   <div style="margin-bottom: 0.75rem;">
     <a href="https://github.com/md-abdul-alim/capcut-automation" style="text-decoration: none; color: #58a6ff; font-weight: 600; font-size: 1.1rem;">CapCut Automation</a>
   </div>
@@ -84,7 +84,7 @@
   </div>
 </div>
 
-<div style="border: 1px solid #30363d; border-radius: 6px; padding: 1.5rem; background: #0d1117; transition: transform 0.3s ease;">
+<div style="flex: 1; min-width: 300px; border: 1px solid #30363d; border-radius: 6px; padding: 1.5rem; background: #0d1117;">
   <div style="margin-bottom: 0.75rem;">
     <a href="https://github.com/md-abdul-alim/turfbooking" style="text-decoration: none; color: #58a6ff; font-weight: 600; font-size: 1.1rem;">Turf Booking Platform</a>
   </div>
@@ -96,7 +96,7 @@
   </div>
 </div>
 
-<div style="border: 1px solid #30363d; border-radius: 6px; padding: 1.5rem; background: #0d1117; transition: transform 0.3s ease;">
+<div style="flex: 1; min-width: 300px; border: 1px solid #30363d; border-radius: 6px; padding: 1.5rem; background: #0d1117;">
   <div style="margin-bottom: 0.75rem;">
     <a href="https://github.com/md-abdul-alim/django-scrapy-integration" style="text-decoration: none; color: #58a6ff; font-weight: 600; font-size: 1.1rem;">Django Scrapy Integration</a>
   </div>
@@ -108,7 +108,7 @@
   </div>
 </div>
 
-<div style="border: 1px solid #30363d; border-radius: 6px; padding: 1.5rem; background: #0d1117; transition: transform 0.3s ease;">
+<div style="flex: 1; min-width: 300px; border: 1px solid #30363d; border-radius: 6px; padding: 1.5rem; background: #0d1117;">
   <div style="margin-bottom: 0.75rem;">
     <a href="https://github.com/md-abdul-alim/celery-in-django" style="text-decoration: none; color: #58a6ff; font-weight: 600; font-size: 1.1rem;">Celery in Django</a>
   </div>
